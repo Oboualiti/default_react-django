@@ -61,7 +61,7 @@ WSGI_APPLICATION = 'core.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'fstpfe',
+        'NAME': 'angulartest',
         'USER': 'postgres',
         'PASSWORD': 'ccnn123',
         'HOST': 'localhost', 
